@@ -8,4 +8,5 @@ I'm a software engineer creating games and applications with Unity3D for PC and 
 
 ## Stats
 
-https://github-readme-stats.vercel.app/api?username=jdmulti&show_icons=true&theme=dracula
+![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=jdmulti&show_icons=true&theme=dracula)
+
